@@ -1,7 +1,8 @@
 # **Analisi dei Dati Storico-Artistici**:  *Arte come specchio di vita*
 
 ## DOI
-[![DOI](https://zenodo.org/badge/1113659532.svg)](https://doi.org/10.5281/zenodo.17896901)
+https://doi.org/10.5281/zenodo.18756477
+
 ## Descrizione
 Questo progetto consiste in un'analisi esplorativa ed esplicativa di un dataset contenente dati storico-artistici, relativi ad opere d'arte localizzate in Italia. Esso compre un periodo cronologico molto vasto: dall'XI sec. al XXI.
 
